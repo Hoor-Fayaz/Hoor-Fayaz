@@ -1,82 +1,72 @@
-# Hi, I'm Hoor Fayaz 👋
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer+in+Progress;Learning+Python%2C+JavaScript%2C+Web+Tech;Building+real+projects+with+passion" alt="Typing SVG" />
+# Hi, I'm Hoor Fayaz 👋
+
+### Software Engineer · AI Engineer · Full-Stack Engineer
+
+<p>
+  <a href="https://github.com/Hoor-Fayaz"><img src="https://img.shields.io/badge/GitHub-Hoor--Fayaz-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:hoorfayaz16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+web+experiences;Designing+scalable+full-stack+systems;Integrating+AI+into+real-world+products;Turning+ideas+into+reliable+software" alt="Typing introduction" />
 
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a software engineering student with a strong interest in building practical, scalable, and user-friendly digital solutions. I enjoy learning new technologies, solving real-world problems, and turning ideas into working projects.
+I’m a **Software Engineer** focused on building polished, reliable, and scalable digital products. As an **AI Full-Stack Engineer**, I work across the entire product lifecycle—from thoughtful interfaces and robust APIs to intelligent features, data, and deployment.
 
-I’m especially interested in:
+I enjoy turning complex problems into simple user experiences, writing maintainable code, and continuously improving products through practical engineering and deliberate design.
 
-- Web development
-- Python programming
-- Backend and frontend engineering
-- APIs and system design
-- Problem solving and clean code
+- 🚀 Building end-to-end web applications with modern frontend and backend technologies
+- 🤖 Exploring AI-powered products, automation, and intelligent developer tools
+- 🧩 Designing clean APIs, scalable services, and intuitive user experiences
+- 🛠️ Focused on quality, performance, accessibility, and long-term maintainability
+- 🤝 Open to collaborating on ambitious software and AI projects
 
-## Current Focus
+## 🧰 Technology Stack
 
-- Learning modern programming languages and frameworks
-- Building real-world projects and portfolio work
-- Improving my software engineering fundamentals
-- Collaborating on meaningful development work
-
-## Skills
-
-### Programming
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-### Web & Tech
-- React / Next.js
-- Node.js / Express
-- MongoDB
-- REST APIs
-- Git / GitHub
-
-### Tools
-- VS Code
-- Git
-- Postman
-- Docker basics
-- Figma (for UI thinking)
-
-## Projects
-
-I’m actively working on projects that combine coding, creativity, and practical value. Some of my current interests include:
-
-- eCommerce platforms
-- AI and automation tools
-- Full-stack web applications
-- Educational and productivity projects
-
-## Contact
-
-- Email: hoorfayaz16@gmail.com
-- GitHub: https://github.com/Hoor-Fayaz
-
-## Profile Status
-
-- 👋 Hi, I’m @Hoor-Fayaz
-- 👀 I’m interested in learning coding languages.
-- 🌱 I’m currently a student of software engineering.
-- 💞️ I’m looking to collaborate on programming languages.
-- 📫 You can reach me on hoorfayaz16@gmail.com
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hoor-Fayaz&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" alt="Frontend technologies" />
 </p>
 
-<!---
-Hoor-Fayaz/Hoor-Fayaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend, Data & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres" alt="Backend and data technologies" />
+</p>
+
+### Tools & Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" alt="Tools and engineering technologies" />
+</p>
+
+## 🔭 What I’m Building
+
+- AI-assisted applications that solve practical problems
+- Full-stack products with thoughtful UX and dependable architecture
+- REST APIs, integrations, and automation workflows
+- Projects that combine creativity, engineering, and measurable value
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hoor-Fayaz&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=6B7280" alt="Hoor Fayaz's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoor-Fayaz&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=6B7280" alt="Hoor Fayaz's most used languages" />
+</div>
+
+## 🤝 Let’s Connect
+
+I’m always interested in meaningful collaborations, innovative product ideas, and opportunities to build software that makes a difference.
+
+<div align="center">
+  <a href="mailto:hoorfayaz16@gmail.com">📧 hoorfayaz16@gmail.com</a> ·
+  <a href="https://github.com/Hoor-Fayaz">🐙 GitHub</a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Hoor-Fayaz&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
+</div>
+
+<!--
+  Thanks for visiting my profile! Feel free to explore my repositories and connect.
+-->
